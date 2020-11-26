@@ -1,5 +1,6 @@
 import requests
 import json
+# Choose Your Dict
 from eng import var as v
 # from rus import var as v
 
